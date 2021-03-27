@@ -65,3 +65,4 @@ Write-Host "[" -ForegroundColor Green -NoNewline
 Write-Host "INFO" -ForegroundColor Cyan -NoNewline
 Write-Host "] System will restart in 10 Seconds." -ForegroundColor Green
 Write-Host ""
+Write-Host "Keep Learning and Keep Growing :)" -ForegroundColor Yellow
