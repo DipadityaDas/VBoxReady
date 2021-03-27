@@ -42,3 +42,4 @@ Write-Host "================================================================" -F
 Write-Host ""
 Write-Host "[" -ForegroundColor Green -NoNewline
 Write-Host "INFO" -ForegroundColor Cyan -NoNewline
+Write-Host "] Running with Admin Rights" -ForegroundColor Green
