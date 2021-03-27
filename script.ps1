@@ -44,5 +44,5 @@ Write-Host "[" -ForegroundColor Green -NoNewline
 Write-Host "INFO" -ForegroundColor Cyan -NoNewline
 Write-Host "] Running with Admin Rights" -ForegroundColor Green
 
-
+# Changing the value of HypervisiorLauchType in Boot Configuration Data (BCD) file 
 $bcdeditvalue = bcdedit /set hypervisorlaunchtype  Off
