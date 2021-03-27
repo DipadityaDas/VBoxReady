@@ -22,5 +22,6 @@
 
 function Test-Administrator  
 {  
-
+	[OutputType([bool])]
+    param()
 }
