@@ -59,3 +59,5 @@ If ($dismvalue -eq "The operation completed successfully.") {
 	Write-Host "INFO" -ForegroundColor Cyan -NoNewline
 	Write-Host "] Microsoft-Hyper-V has been successfully disabled." -ForegroundColor Green
 }
+
+# Restart Process
