@@ -57,4 +57,5 @@ $dismvalue = DISM /Online /Disable-feature:Microsoft-Hyper-V
 If ($dismvalue -eq "The operation completed successfully.") {
 	Write-Host "[" -ForegroundColor Green -NoNewline
 	Write-Host "INFO" -ForegroundColor Cyan -NoNewline
+	Write-Host "] Microsoft-Hyper-V has been successfully disabled." -ForegroundColor Green
 }
