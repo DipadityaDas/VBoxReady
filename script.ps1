@@ -32,5 +32,6 @@ function Test-Administrator
 
 if(-not (Test-Administrator))
 {
-    
+    Write-Error "This script must be executed as Administrator.";
+    exit 1;
 }
