@@ -62,3 +62,4 @@ If ($dismvalue -eq "The operation completed successfully.") {
 
 # Restart Process
 Write-Host "[" -ForegroundColor Green -NoNewline
+Write-Host "INFO" -ForegroundColor Cyan -NoNewline
