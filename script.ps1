@@ -51,3 +51,5 @@ If ($bcdeditvalue -eq "The operation completed successfully.") {
 	Write-Host "INFO" -ForegroundColor Cyan -NoNewline
 	Write-Host "] Changed the value of hypervisorlaunchtype to off" -ForegroundColor Green
 }
+
+$dismvalue = DISM /Online /Disable-feature:Microsoft-Hyper-V
