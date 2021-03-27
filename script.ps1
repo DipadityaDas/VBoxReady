@@ -43,3 +43,6 @@ Write-Host ""
 Write-Host "[" -ForegroundColor Green -NoNewline
 Write-Host "INFO" -ForegroundColor Cyan -NoNewline
 Write-Host "] Running with Admin Rights" -ForegroundColor Green
+
+
+$bcdeditvalue = bcdedit /set hypervisorlaunchtype  Off
