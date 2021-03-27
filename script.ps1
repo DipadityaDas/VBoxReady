@@ -48,4 +48,5 @@ Write-Host "] Running with Admin Rights" -ForegroundColor Green
 $bcdeditvalue = bcdedit /set hypervisorlaunchtype  Off
 If ($bcdeditvalue -eq "The operation completed successfully.") {
 	Write-Host "[" -ForegroundColor Green -NoNewline
+	Write-Host "INFO" -ForegroundColor Cyan -NoNewline
 }
