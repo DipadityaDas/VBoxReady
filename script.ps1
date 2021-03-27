@@ -63,3 +63,4 @@ If ($dismvalue -eq "The operation completed successfully.") {
 # Restart Process
 Write-Host "[" -ForegroundColor Green -NoNewline
 Write-Host "INFO" -ForegroundColor Cyan -NoNewline
+Write-Host "] System will restart in 10 Seconds." -ForegroundColor Green
