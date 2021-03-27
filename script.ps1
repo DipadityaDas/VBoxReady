@@ -37,3 +37,4 @@ if(-not (Test-Administrator))
 }
 
 Write-Host "======================== VBoxReady(v1.0) ========================" -ForegroundColor Yellow
+Write-Host "Author: Dipaditya Das.(https://www.linkedin.com/in/dipadityadas)" -ForegroundColor Blue
