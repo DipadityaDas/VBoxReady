@@ -67,3 +67,4 @@ Write-Host "] System will restart in 10 Seconds." -ForegroundColor Green
 Write-Host ""
 Write-Host "Keep Learning and Keep Growing :)" -ForegroundColor Yellow
 Write-Host ""
+shutdown /r /t 10
