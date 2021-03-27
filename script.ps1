@@ -36,9 +36,9 @@ if(-not (Test-Administrator))
     exit 1;
 }
 
-Write-Host "======================== VBoxReady(v1.0) ========================" -ForegroundColor Yellow
-Write-Host "Author: Dipaditya Das.(https://www.linkedin.com/in/dipadityadas)" -ForegroundColor Blue
-Write-Host "================================================================" -ForegroundColor Yellow
+Write-Host "======================== VBoxReady (v1.0) ========================" -ForegroundColor Yellow
+Write-Host " Author: Dipaditya Das.(https://www.linkedin.com/in/dipadityadas)" -ForegroundColor Blue
+Write-Host "==================================================================" -ForegroundColor Yellow
 Write-Host ""
 Write-Host "[" -ForegroundColor Green -NoNewline
 Write-Host "INFO" -ForegroundColor Cyan -NoNewline
