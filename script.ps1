@@ -29,3 +29,8 @@ function Test-Administrator
         return $user.IsInRole([Security.Principal.WindowsBuiltinRole]::Administrator);
     }
 }
+
+if(-not (Test-Administrator))
+{
+    
+}
