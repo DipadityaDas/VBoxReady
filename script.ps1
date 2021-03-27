@@ -35,3 +35,5 @@ if(-not (Test-Administrator))
     Write-Error "This script must be executed as Administrator.";
     exit 1;
 }
+
+Write-Host "======================== VBoxReady(v1.0) ========================" -ForegroundColor Yellow
