@@ -15,3 +15,5 @@ These symptoms are introduced when the Hyper-V Hypervisor is running. Some secur
 
 To determine whether the Hyper-V hypervisor is running, follow these steps:
 1. In the search box, type `msinfo32.exe`.
+2. Select System Information.
+3. 
