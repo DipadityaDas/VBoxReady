@@ -22,9 +22,9 @@ To determine whether the Hyper-V hypervisor is running, follow these steps:
 ![Hyper-V](https://docs.microsoft.com/en-us/troubleshoot/windows-client/application-management/media/virtualization-apps-not-work-with-hyper-v/system-information.png)
 
 ## Cause
-
 > **This behavior occurs by design.**
 
 Many virtualization applications depend on **hardware virtualization extensions** that are available on most *modern processors*. It includes `Intel VT-x` and `AMD-V`. 
 
+> **Only one software component can use this hardware at a time.**
 
