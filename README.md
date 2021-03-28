@@ -26,5 +26,5 @@ To determine whether the Hyper-V hypervisor is running, follow these steps:
 
 Many virtualization applications depend on **hardware virtualization extensions** that are available on most *modern processors*. It includes `Intel VT-x` and `AMD-V`. 
 
-> **Only one software component can use this hardware at a time.**
+**Only one software component can use this hardware at a time. The hardware cannot be shared between virtualization applications.**
 
