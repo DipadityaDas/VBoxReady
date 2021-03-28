@@ -19,4 +19,4 @@ To determine whether the Hyper-V hypervisor is running, follow these steps:
 3. In the detail window, locate the following entry:
 > ***`A hypervisor has been detected. Features required for Hyper-V will not be displayed.`***
 
-[Hyper-V]()
+![Hyper-V](https://docs.microsoft.com/en-us/troubleshoot/windows-client/application-management/media/virtualization-apps-not-work-with-hyper-v/system-information.png)
