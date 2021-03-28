@@ -29,3 +29,5 @@ Many virtualization applications depend on **hardware virtualization extensions*
 **Only one software component can use this hardware at a time. The hardware cannot be shared between virtualization applications.**
 
 To use other virtualization software, you must disable Hyper-V Hypervisor, Device Guard, and Credential Guard. 
+
+If you want to disable Hyper-V Hypervisor, then you can follow the old method(GUI) ,i.e., to disable with Hyper-V, Device Guard and Credential Guard from [Windows Features](https://docs.microsoft.com/en-us/troubleshoot/windows-client/application-management/virtualization-apps-not-work-with-hyper-v)
