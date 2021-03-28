@@ -22,3 +22,5 @@ To determine whether the Hyper-V hypervisor is running, follow these steps:
 ![Hyper-V](https://docs.microsoft.com/en-us/troubleshoot/windows-client/application-management/media/virtualization-apps-not-work-with-hyper-v/system-information.png)
 
 ## Cause
+
+This behavior occurs by design.
