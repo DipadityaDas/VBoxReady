@@ -32,7 +32,9 @@ function Test-Administrator
 
 if(-not (Test-Administrator))
 {
-    Write-Error "This script must be executed as Administrator.";
+    Write-Host "[" -ForegroundColor Red -NoNewline
+	Write-Host "INFO" -ForegroundColor Cyan -NoNewline
+	Write-Host "] This script must be executed with Administrator Privileges" -ForegroundColor Red
     exit 1;
 }
 
