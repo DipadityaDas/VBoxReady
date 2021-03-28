@@ -40,3 +40,4 @@ VBoxReady is a powershell script which if execute in an `elevated PowerShell win
 
 ![Result](https://raw.githubusercontent.com/DipadityaDas/VBoxReady/main/img/running.png) 
 
+After the system reboot automatically, if we again go to `msinfo32.exe` and Select System Information, then we will see that the Hyper-V Requirement doesn't shows the previous image. 
