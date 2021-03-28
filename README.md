@@ -28,3 +28,4 @@ Many virtualization applications depend on **hardware virtualization extensions*
 
 **Only one software component can use this hardware at a time. The hardware cannot be shared between virtualization applications.**
 
+To use other virtualization software, you must disable Hyper-V Hypervisor, Device Guard, and Credential Guard. 
