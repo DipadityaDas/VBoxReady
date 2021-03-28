@@ -17,4 +17,4 @@ To determine whether the Hyper-V hypervisor is running, follow these steps:
 1. In the search box, type `msinfo32.exe`.
 2. Select System Information.
 3. In the detail window, locate the following entry:
-> ### A hypervisor has been detected. Features required for Hyper-V will not be displayed.
+> **A hypervisor has been detected. Features required for Hyper-V will not be displayed.**
