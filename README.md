@@ -38,6 +38,8 @@ But I have created another way. Everytime there is a windows update, Microsoft-H
 
 VBoxReady is a powershell script which if execute in an `elevated PowerShell window`, then the system becomes ready for an third party virtualization program including [VMware Workstation](https://www.vmware.com/in/products/workstation-pro.html) and [VirtualBox](https://www.virtualbox.org/). 
 
-![Result](https://raw.githubusercontent.com/DipadityaDas/VBoxReady/main/img/running.png) 
+![Execution](https://raw.githubusercontent.com/DipadityaDas/VBoxReady/main/img/running.png) 
 
-After the system reboot automatically, if we again go to `msinfo32.exe` and Select System Information, then we will see that the `Hyper-V Requirement` doesn't shows the previous message. 
+After the system reboot automatically, if we again go to `msinfo32.exe` and Select System Information, then we will see that the `Hyper-V Requirement` doesn't shows the previous message.
+
+![Result](https://raw.githubusercontent.com/DipadityaDas/VBoxReady/main/img/result.png)
