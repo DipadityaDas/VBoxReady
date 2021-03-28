@@ -24,3 +24,6 @@ To determine whether the Hyper-V hypervisor is running, follow these steps:
 ## Cause
 
 > **This behavior occurs by design.**
+
+Many virtualization applications depend on **hardware virtualization extensions** that are available on most *modern processors*.
+
