@@ -12,3 +12,5 @@ These symptoms are introduced when the Hyper-V Hypervisor is running. Some secur
 - Credential Guard
 
 ## Determine whether the Hyper-V hypervisor is running
+
+To determine whether the Hyper-V hypervisor is running, follow these steps:
