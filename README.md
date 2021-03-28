@@ -23,4 +23,4 @@ To determine whether the Hyper-V hypervisor is running, follow these steps:
 
 ## Cause
 
-This behavior occurs by design.
+> **This behavior occurs by design.**
