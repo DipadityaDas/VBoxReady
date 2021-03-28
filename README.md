@@ -7,3 +7,7 @@ Hyper-V is not a tool for inexperienced PC users. It’s a utility, which replac
 Many third-party virtualization applications don't work together with Hyper-V. Affected applications include VMware Workstation and VirtualBox. These applications might not start virtual machines, or they may fall back to a slower, emulated mode.
 
 These symptoms are introduced when the Hyper-V Hypervisor is running. Some security solutions are also dependent on the hypervisor, such as:
+
+- Device Guard
+- Credential Guard
+
