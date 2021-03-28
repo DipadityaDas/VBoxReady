@@ -25,5 +25,6 @@ To determine whether the Hyper-V hypervisor is running, follow these steps:
 
 > **This behavior occurs by design.**
 
-Many virtualization applications depend on **hardware virtualization extensions** that are available on most *modern processors*.
+Many virtualization applications depend on **hardware virtualization extensions** that are available on most *modern processors*. It includes `Intel VT-x` and `AMD-V`. 
+
 
